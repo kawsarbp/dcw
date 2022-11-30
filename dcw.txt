@@ -1,0 +1,15 @@
+=> use some build in functionthis project.
+=> CRUD oparation, and status update done by ajax.
+=> show message dynamicly.
+=> show toster message use json code.
+=> rember me password.
+=> forget password with php mailer.
+=> select image and automatic load this selected image(onchange function).
+=> unlick function use delete by image
+=> sweet alert message.
+=> update image with poper way.
+=> unlick function use update by image.
+=> create relationship in phpmyadmin (T-25).
+=> inner join.
+=> start date, end date  show in slider.
+=> active manu bar.
